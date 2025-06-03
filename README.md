@@ -24,9 +24,9 @@ pip install -r requirements.txt
 ## 🚀 How to Run
 
 ```bash
-python emotion_detect.py
-python hand_distance.py
-python main.py
+python hand_distance_alert.py
+python face_emotion_detection.py
+python face_mesh_visualization.py
 ```
 
 Make sure your webcam is enabled. Press `q` to quit.
@@ -35,9 +35,9 @@ Make sure your webcam is enabled. Press `q` to quit.
 
 ```
 ComputerVision/
-├── emotion_detect.py
-├── hand_distance.py
-├── main.py
+├── hand_distance_alert.py
+├── face_emotion_detection.py
+├── face_mesh_visualization.py
 ├── .gitignore
 ├── README.md
 ```
